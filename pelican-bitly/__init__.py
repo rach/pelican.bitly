@@ -1,0 +1,2 @@
+from bitly import register
+
